@@ -1,0 +1,40 @@
+input{
+    margin:7px;
+    font-size: 20px;
+    width:150px;
+}
+body{
+    text-align: center;
+    margin-top: 50px;
+    background-color: wheat;
+}
+button{
+    font-size:20px;
+    margin:5px;
+    border-radius: 5px;
+    border-color:lightgray ;
+    
+    
+
+}
+button:hover{
+    background-color: black;
+    color:azure;
+}
+.container{
+    border: 1px solid black;
+    width:200px;
+    height:200px;
+    margin-top: 100px;
+    margin-left: 650px;
+    border-radius: 10px;
+    background-color: violet;
+
+}
+h1
+{
+    color:black;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
